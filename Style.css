@@ -1,0 +1,30 @@
+.jumbotron{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: none;
+}
+
+.footer{
+    text-align: center;
+    background-color: #5c6447;
+    color: white;
+    padding: 30px;
+    padding-left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.section3 , .section5{
+    text-align: center;
+    margin: 100px , 100px ,100px , 100px;
+}
+
+.section4{
+    background-color: #5c6447;
+    text-align: center;
+    padding: 80px;
+    display: none;
+}
+.weight{
+    text-align: center;
+    margin: 100px;
+}
